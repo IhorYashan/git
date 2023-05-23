@@ -1,0 +1,9 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "\\Cargo.toml"
+    ],
+    "files.associations": {
+        "*.c": "c",
+        "complex.h": "c"
+    }
+}
